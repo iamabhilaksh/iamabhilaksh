@@ -1,7 +1,8 @@
 ## Hi there 👋
 ### My GitHub Stats
 
-![Abhilaksh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamabhilaksh&show_icons=true&theme=radical)
+![Abhilaksh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamabhilaksh&show_icons=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage)
+
 
 <!--
 **iamabhilaksh/iamabhilaksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
